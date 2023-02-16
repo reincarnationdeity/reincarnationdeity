@@ -25,4 +25,4 @@ I'm 3rd year student at the Krasnodar College of Electronic Instrumentation in C
 </p>
 <hr>
 <p align="center">Listen with me!</p>
-[<img src="https://readme-spotify-stat-nqqf-88anjhax2-reincarnationdeity.vercel.app/api/run-spotify-status" alt="Spotify Player" width="500"/>](https://open.spotify.com/user/0faddhs17pztm176hqin5m3ne)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0faddhs17pztm176hqin5m3ne&cover_image=true&theme=default&show_offline=true&background_color=edece3&bar_color=c498fb&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=0faddhs17pztm176hqin5m3ne&redirect=true)
