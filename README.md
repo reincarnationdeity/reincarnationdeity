@@ -15,5 +15,5 @@ I'm 3rd year student at the Krasnodar College of Electronic Instrumentation in C
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
 <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" width="70">
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="50">
 </p>
