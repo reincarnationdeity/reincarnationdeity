@@ -35,6 +35,6 @@ I'm 3rd year student at the Krasnodar College of Electronic Instrumentation in C
 
 <p align="center">Contact me:</p>
 <p align="center">
-<a href=""><img src="https://user-images.githubusercontent.com/118426764/219427656-74e10387-3ca4-40ed-b0ef-4107089a0493.svg"></a>
+<a href=""><img src="https://user-images.githubusercontent.com/118426764/219427656-74e10387-3ca4-40ed-b0ef-4107089a0493.svg" height="30"></a>
 
 </p>
