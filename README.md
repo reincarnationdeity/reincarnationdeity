@@ -3,7 +3,10 @@
 ###
 <p align="center">
 I'm 3rd year student at the Krasnodar College of Electronic Instrumentation in Computer Systems :purple_heart:. I follow the approach of continuous self-improvement and self-learning in web technologies. :dizzy: I usually get excited about solving problems in a real environment. In real life, I want to relocate to Japan and live there forever, and strive for that goal. I'm also almost fluently speak Ukrainian, because my birth place is Kharkhov, English, and Russian, and now learn Japanese.<br>
+  Now learning NextJS and SSR Applications.
+  <br>
   INTP 5w4
+  
 </p>
 <p align="center"><b>TECHNOLOGY STACK</b></p>
 <hr>
