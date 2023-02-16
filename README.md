@@ -37,5 +37,5 @@ I'm 3rd year student at the Krasnodar College of Electronic Instrumentation in C
 <p align="center">
 <a href="https://discordapp.com/users/923487224492884018"><img src="https://user-images.githubusercontent.com/118426764/219427656-74e10387-3ca4-40ed-b0ef-4107089a0493.svg" height="30"></a>
   <a href="https://www.linkedin.com/in/nikita-gavrilyuk-876448262/"><img src="https://user-images.githubusercontent.com/118426764/219429220-871d8f12-bce0-44d8-abc9-c3a551d5d85a.gif"></a>
-  <a href=""><img src="https://user-images.githubusercontent.com/118426764/219430074-a93499d9-0d86-4600-a2c5-b3a82eefade1.png"></a>
+  <a href="https://t.me/ilulinaa"><img src="https://user-images.githubusercontent.com/118426764/219430074-a93499d9-0d86-4600-a2c5-b3a82eefade1.png"></a>
 </p>
