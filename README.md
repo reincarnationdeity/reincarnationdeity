@@ -7,4 +7,4 @@ I'm 3rd year student at the Krasnodar College of Electronic Instrumentation in C
 </p>
 
 <hr>
-<pre><p align="center">TECHNOLOGY STACK</p></pre>
+<pre align="center"><b>TECHNOLOGY STACK</b></pre>
