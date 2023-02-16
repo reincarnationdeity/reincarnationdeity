@@ -20,4 +20,6 @@ I'm 3rd year student at the Krasnodar College of Electronic Instrumentation in C
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="20">
 <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" height="20">
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" height="20">
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
