@@ -23,3 +23,6 @@ I'm 3rd year student at the Krasnodar College of Electronic Instrumentation in C
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
+<hr>
+<p align="center">Listen with me!</p>
+[<img src="https://readme-spotify-stat-nqqf.vercel.app/api/run-spotify-status" alt="Your alt what" width="500">(https://open.spotify.com/user/0faddhs17pztm176hqin5m3ne)]
