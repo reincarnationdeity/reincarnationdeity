@@ -10,3 +10,5 @@ I'm 3rd year student at the Krasnodar College of Electronic Instrumentation in C
 <p align="center"><b>TECHNOLOGY STACK</b></p>
 
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
