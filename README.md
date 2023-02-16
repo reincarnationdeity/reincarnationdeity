@@ -9,4 +9,4 @@ I'm 3rd year student at the Krasnodar College of Electronic Instrumentation in C
 <hr>
 <p align="center"><b>TECHNOLOGY STACK</b></p>
 
-<img src="https://user-images.githubusercontent.com/118426764/219406252-cb28dc2d-3b3d-4f2f-a5da-cf686276bf68.png" width="100">
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
