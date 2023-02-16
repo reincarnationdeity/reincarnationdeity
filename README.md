@@ -25,4 +25,8 @@ I'm 3rd year student at the Krasnodar College of Electronic Instrumentation in C
 </p>
 <hr>
 <p align="center">Listen with me!</p>
+<p align="center">
+ <a href="https://open.spotify.com/user/0faddhs17pztm176hqin5m3ne">
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=0faddhs17pztm176hqin5m3ne&cover_image=true&theme=novatorem&show_offline=true&background_color=edece3&bar_color=c498fb&bar_color_cover=true">
+  </a>
+</p>
